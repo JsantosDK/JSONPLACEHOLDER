@@ -6,7 +6,7 @@
     { "decimals-3": 987654321.003 },
     { "decimals-4": 987654321.0004 }
   ],
-  "calender": [
+  "dates": [
     { "first-of-year": "2020-01-01" },
     { "last-of-year": "2020-12-31" },
     { "year-only": "2020" },
