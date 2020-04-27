@@ -10,6 +10,6 @@
     { "first-of-year": "2020-01-01" },
     { "last-of-year": "2020-12-31" },
     { "year-only": "2020" },
-    { "year-month-only": "2020-01" 
+    { "year-month-only": "2020-01" }
   ]
 }
